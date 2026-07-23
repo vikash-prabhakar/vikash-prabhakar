@@ -4,11 +4,12 @@ I am an aspiring **Frontend Developer** passionate about crafting clean, respons
 
 ---
 
-### 💻 Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Concepts:** DOM Manipulation, Async JS, API Integration, Responsive Design
-- **AI Tools:** Claude AI (For debugging & architectural pairing)
-- **Version Control:** Git & GitHub
+💻 Tech Stack & Tools
+
+* **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+* **Build Tools & Version Control:** Vite, pnpm/npm, Git & GitHub
+* **Concepts & Architecture:** Component-Driven Development, React Hooks & State Management, REST API Integration, Responsive Design
+* **AI & Workflow:** Claude AI (For accelerated debugging, prompt engineering & architectural pairing)
 
 ---
 
