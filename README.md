@@ -15,7 +15,8 @@ I am an aspiring **Frontend Developer** passionate about crafting clean, respons
 📈 What I'm Currently Working On
 
 * 🛒 **[RetailOps | B2B Invoice & Sales Management](https://retail-ops-peach.vercel.app/)**: A modern retail operations dashboard featuring live cart calculations, dynamic GST slab breakdowns, instant PDF invoice generation, and responsive product catalog filtering. *(React, Tailwind CSS, Vite)*
-* 🪙 **Live Crypto Dashboard**: A real-time cryptocurrency tracker built with Vanilla JS and CoinGecko API featuring glassmorphic card layouts and instant client-side search filtering.
+* 🪙 **[Live Crypto Dashboard](https://crypto-dashboard-phi-sage.vercel.app/)**: A real-time cryptocurrency tracker built with Vanilla JS and CoinGecko API featuring glassmorphic card layouts and instant client-side search filtering.
+
 
 
 ---
