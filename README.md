@@ -1,6 +1,6 @@
 # Hi there, I'm Vikash Prabhakar! 👋
 
-I am an aspiring **Frontend Developer** passionate about crafting clean, responsive web site/apps and interactive UIs. I love leveraging modern tools like Claude AI for AI-assisted development and accelerated problem-solving.
+I am a **Frontend Developer** passionate about crafting clean, responsive web apps and interactive UIs. I love leveraging modern tools like Claude AI for AI-assisted development and accelerated problem-solving.
 
 ---
 
